@@ -1,5 +1,7 @@
 # Password-Generator-JS
 
+Live Link :- https://vivek-password-generator.vercel.app/
+
 (1). This is a JS project which generates password according to user's choice.
 <img width="845" alt="Pic1" src="https://github.com/Vivek4551/Password-Generator-JS/assets/77227718/6b0b0607-2377-4a5e-b91c-ffece8259828">
 
